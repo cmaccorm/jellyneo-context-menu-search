@@ -1,0 +1,15 @@
+{
+	"name": "Jellyneo Context Menu Search",
+	"description": "Adds the ability to search highlighted text with Jellyneo in the context menu.",
+	"version": "1.0",
+	"permissions": ["contextMenus", "tabs"],
+	"background": {
+		"scripts": ["background.js"]
+	},
+	"icons": {
+		"16": "jellyneoIconSmall.png",
+		"48": "jellyneoIconBig.png",
+		"128": "jellyneoIconBig.png"
+	},
+	"manifest_version": 2
+}
