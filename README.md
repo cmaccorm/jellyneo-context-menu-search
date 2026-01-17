@@ -1,8 +1,8 @@
 ![Project Banner](media/banner.png)
 
-[Chromium](https://alternativeto.net/category/browsers/chromium-based/) extension to search highlighted text with Jellyneo in the context menu.
+[Chromium](https://alternativeto.net/category/browsers/chromium-based/) extension to search highlighted text with [Jellyneo's Item Database](https://items.jellyneo.net/) in the context menu.
 
-_This project is not affiliated with [Jellyneo](jellyneo.net)_
+_This project is not affiliated with Jellyneo_
 
 ![Example Gif](media/example.gif)
 
