@@ -2,6 +2,8 @@
 
 [Chromium](https://alternativeto.net/category/browsers/chromium-based/) extension to search highlighted text with Jellyneo in the context menu.
 
+_This project is not affiliated with [Jellyneo](jellyneo.net)_
+
 ![Example Gif](media/example.gif)
 
 # How to use
